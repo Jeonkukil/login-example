@@ -8,6 +8,14 @@
             <meta http-equiv="X-UA-Compatible" content="IE=edge">
             <meta name="viewport" content="width=device-width, initial-scale=1.0">
             <title>Document</title>
+            <link rel="stylesheet" href="/css/join.css">
+             <nav>
+        <div class="menu">
+            <ul>
+                <li><a href="/logout"><strong>로그아웃</strong></a> </li>
+            </ul>
+        </div>
+    </nav>
         </head>
 
         <body>

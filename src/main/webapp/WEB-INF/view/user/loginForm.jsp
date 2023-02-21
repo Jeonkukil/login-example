@@ -12,6 +12,7 @@
             <nav>
                 <div class="menu">
                     <ul>
+                     <li><a href="/logout"><strong>로그아웃</strong></a> </li>
                         <li><a href="/joinForm"><strong>회원가입</strong></a> </li>
                     </ul>
                 </div>

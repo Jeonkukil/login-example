@@ -14,6 +14,7 @@
             <ul>
                
                 <li><a href="/loginForm"><strong>로그인</strong></a> </li>
+                <li><a href="/logout"><strong>로그아웃</strong></a> </li>
             </ul>
         </div>
     </nav>
