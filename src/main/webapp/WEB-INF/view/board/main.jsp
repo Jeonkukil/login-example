@@ -11,7 +11,7 @@
         </head>
 
         <body>
-            <h1>MAIN</h1>
+            <h1>MAIN 그으으린 아카데미의 귀여운 국짱데스~!</h1>
         </body>
 
         </html>

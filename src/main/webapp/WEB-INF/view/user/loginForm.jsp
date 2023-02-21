@@ -26,7 +26,6 @@
                 <h1>로그인</h1>
                 <input type="text" name="username" placeholder="Enter username" required><br />
                 <input type="password" name="password" placeholder="Enter password" required><br />
-                <input type="email" name="email" placeholder="Enter email" required><br />
                 <button>로그인</button>
             </form>
         </div>
